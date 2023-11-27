@@ -10,7 +10,7 @@ I created this program to get a better understanding of networking as well as wo
 
 The game uses a simple client/server architecture and uses UDP for communicating data.
 
-Our networking script within the world and player files handles player connection, disconnection, creating seperate players, as well as updating all of those players variables such as position, rotation, etc.
+The networking script within the world and player files handles player connection, disconnection, creating seperate players, as well as updating all of those players variables such as position, rotation, etc.
 
 # Development Environment
 
