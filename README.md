@@ -4,7 +4,7 @@ This program is a networked version of a simple arena shooter that I replaced th
 
 I created this program to get a better understanding of networking
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/KErDMicZmQU))
+[Software Demo Video]([https://youtu.be/KErDMicZmQU])
 
 # Network Communication
 
