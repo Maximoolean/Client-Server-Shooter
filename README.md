@@ -2,7 +2,7 @@
 
 This program is a networked version of a simple arena shooter that I replaced the ai enemies with other players
 
-I created this program to get a better understanding of networking
+I created this program to get a better understanding of networking as well as working within the 3D aspects of Godot
 
 [Software Demo Video](https://youtu.be/KErDMicZmQU)
 
@@ -10,23 +10,20 @@ I created this program to get a better understanding of networking
 
 The game uses a simple client/server architecture and uses UDP for communicating data.
 
-{Identify the format of messages being sent between the client and server or the messages sent between two peers.}
+Our networking script within the world and player files handles player connection, disconnection, creating seperate players, as well as updating all of those players variables such as position, rotation, etc.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+This game was created within Godot using GDscript as its programming language as well as ENet libraries for simpler networking
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Godot Documentation](https://docs.godotengine.org/en/stable/index.html)
+* [Multiplayer Documentation](https://docs.godotengine.org/en/stable/tutorials/networking/high_level_multiplayer.html)
+* [ENet library page](http://enet.bespin.org/usergroup0.html)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
+* Add more player movement options
+* Have items that spawn on the ground for players to pick up
 * Item 3
