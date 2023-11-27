@@ -4,7 +4,7 @@ This program is a networked version of a simple arena shooter that I replaced th
 
 I created this program to get a better understanding of networking as well as working within the 3D aspects of Godot
 
-[Software Demo Video](https://youtu.be/KErDMicZmQU)
+[Software Demo Video](https://youtu.be/L12ao-14FXk)
 
 # Network Communication
 
