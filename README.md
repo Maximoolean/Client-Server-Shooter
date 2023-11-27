@@ -26,4 +26,4 @@ This game was created within Godot using GDscript as its programming language as
 
 * Add more player movement options
 * Have items that spawn on the ground for players to pick up
-* Item 3
+* Set up non local-host server options or possibly port-forwarding
